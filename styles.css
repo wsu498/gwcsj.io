@@ -17,6 +17,7 @@ ul {
 	list-style-type: none;
 }
 li {
+	position: center;
 	display: inline;
 	padding: 10px;
 
