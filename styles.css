@@ -1,23 +1,29 @@
 <style>
 body {
-  background-color: light-blue;
 }
 
+* {
+	box-sizing: border-box;
+	padding: 50px;
+}
+
+
 h1 {
-  font-family: impact;
+  font-family: poppins;
   text-align: center;
 }
 
 p {
-  font-family: verdana;
+  font-family: poppins;
   font-size: 20px;
+  padding: 10px;
 }
 
 ul {
 	list-style-type: none;
 }
 li {
-	position: center;
+	text-align: center;
 	display: inline;
 	padding: 10px;
 
