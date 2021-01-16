@@ -12,4 +12,14 @@ p {
   font-family: verdana;
   font-size: 20px;
 }
+
+ul {
+	list-style-type: none;
+}
+li {
+	display: inline;
+	padding: 10px;
+
+}
+
 </style>
